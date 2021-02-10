@@ -9,6 +9,7 @@ class Cards{
     private:
         char rank;
         char suit;
+        
 
     public:
         Cards();

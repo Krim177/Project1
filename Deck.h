@@ -15,7 +15,7 @@ class Deck{
         Deck();
         void refreshDeck();
         Cards deal();
-        void shuffle(Cards a1[], int size);
+        void shuffle();
         int cardsLeft();
         void showDeck();
 
